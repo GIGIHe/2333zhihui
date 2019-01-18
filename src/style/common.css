@@ -1,0 +1,27 @@
+li {list-style-type:none;}
+a{text-decoration: none;}
+.mt{
+  margin-top: 0.44rem;
+}
+.mt_8{
+  margin-top: 8px;
+}
+.mb{
+  margin-bottom: 0.5rem;
+}
+.bgc_w{
+background-color: #fff;
+}
+.color_3{
+  color: #333;
+}
+.font_18{
+font-size: 18px;
+}
+.font_15{
+font-size: 15px;
+}
+.font_12
+{
+  font-size: 12px;
+}
